@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/SRvSaha/CoWinVaccineSlotFinder/master/data/Banner.png" alt="CoWIN Vaccine Slot Finder Logo" />
 </p>
 
-# Real-Time Co-WIN Vaccine Slot Finder - *We Find Your Shot!*
+# Real-Time Co-WIN Vaccine Slot Finder - *We Find Your Shots!*
 
 Windows Software to fetch the available slots & book the appointment for COVID-19 Vaccination, Co-WIN using the [APISetu APIs](https://apisetu.gov.in/public/marketplace/api/cowin/cowin-public-v2#/) from Govt Of India.
 
