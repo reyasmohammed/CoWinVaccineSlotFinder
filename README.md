@@ -10,7 +10,7 @@ Windows Software to fetch the available slots & book the appointment for COVID-1
 
 > **NOTE:** _**Please make sure [these changes](#configuration-changes) are done in [Config file `appsettings.json`](#configuration-changes) before running the Software**_
 
-### DISCLAIMER
+### DISCLAIMERS
 
 > **NOTE:** _Please go through the [Disclaimer](https://github.com/SRvSaha/CoWinVaccineSlotFinder/blob/master/DISCLAIMER.md), [End User Lisence Agreement](https://github.com/SRvSaha/CoWinVaccineSlotFinder/blob/master/EULA.md) & the [Privacy Policy](https://github.com/SRvSaha/CoWinVaccineSlotFinder/blob/master/PRIVACYPOLICY.md), proceed further only if you accept the [Terms and Conditions](https://github.com/SRvSaha/CoWinVaccineSlotFinder/blob/master/T&C.md) to use the Application/Software_
 
